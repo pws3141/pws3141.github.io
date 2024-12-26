@@ -1,0 +1,7 @@
+---
+title: "Paul Smith"
+---
+
+This is a holding page, at the moment.
+
+Have a look at [my blog](https://pws3141.github.io/blog/), if you want.
