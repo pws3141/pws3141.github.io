@@ -12,33 +12,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "posts/02-mandelian_randomisation/index.html",
-    "href": "posts/02-mandelian_randomisation/index.html",
-    "title": "A First Foray into Genetics, GWAS, and Mendelian Randomisation",
-    "section": "",
-    "text": "In the previous few weeks I have been trying to learn about Mendelian Randomisation, which has resulted in me doing a whistle-stop tour around genetics, codons, and genetic-wide association studies (GWAS). This post is a collection of my notes and thoughts.1"
-  },
-  {
-    "objectID": "posts/02-mandelian_randomisation/index.html#introduction",
-    "href": "posts/02-mandelian_randomisation/index.html#introduction",
-    "title": "A First Foray into Genetics, GWAS, and Mendelian Randomisation",
-    "section": "",
-    "text": "In the previous few weeks I have been trying to learn about Mendelian Randomisation, which has resulted in me doing a whistle-stop tour around genetics, codons, and genetic-wide association studies (GWAS). This post is a collection of my notes and thoughts.1"
-  },
-  {
-    "objectID": "posts/02-mandelian_randomisation/index.html#genetics-for-dummys",
-    "href": "posts/02-mandelian_randomisation/index.html#genetics-for-dummys",
-    "title": "A First Foray into Genetics, GWAS, and Mendelian Randomisation",
-    "section": "Genetics for dummys",
-    "text": "Genetics for dummys\n\n\n\n\n\n\nNote\n\n\n\nBefore diving in, it’s worth remarking that the field of genetics was created before anyone had any idea about the structure of a cell, what DNA looked like, and what chromosomes were. This means the language around this topic can be somewhat confusing for a newcomer, as old terms are still floating around, and overlapping with newer more precise terms.\n\n\n\nA short history\nTODO:\n\nGregor Mendel: “recessive” and “dominant”\nThe birth of genetics: 1900 - 1940, basic patterns of genetic inheritance\nDNA (1940s and 50s), and the discovery of the double helix (Rosalind Franklin, James Watson and Francis Crick, 1953)\nBiobanks\nGWAS"
-  },
-  {
-    "objectID": "posts/02-mandelian_randomisation/index.html#footnotes",
-    "href": "posts/02-mandelian_randomisation/index.html#footnotes",
-    "title": "A First Foray into Genetics, GWAS, and Mendelian Randomisation",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nPlease let me know if there are any mistakes or misconceptions↩︎"
   }
 ]
