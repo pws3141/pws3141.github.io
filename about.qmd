@@ -2,4 +2,23 @@
 title: "About"
 ---
 
-About this site
+## Education
+
+University of Leeds |
+PhD in Statistics | September 2016 - August 2020
+
+University of Bristol |
+MMath | September 2011 - June 2015
+
+University of Hull |
+PGCE | September 2020 - June 2021
+
+## Experience
+
+NHS Blood and Transplant, Bristol | Statistician | November 2023 - present
+
+Equality and Human Rights Commission, Cardiff | Statistician | April 2023 - October 2023 (Maternity Cover)
+
+Secondary School, Bath | Maths Teacher | September 2020 - August 2022
+
+KPMG, London | Investment Advisor | September 2015 - August 2016

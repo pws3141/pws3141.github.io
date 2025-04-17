@@ -2,6 +2,7 @@
 title: "Paul Smith"
 ---
 
-This is a holding page, at the moment.
+Currently there are two things here:
 
-Have a look at [my blog](https://pws3141.github.io/blog/), if you want.
+- [My blog](https://pws3141.github.io/blog/), where I discuss some things that interest me.
+- [My CV](cv.qmd), for if you want to hire me :)

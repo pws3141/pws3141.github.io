@@ -9,6 +9,9 @@ website:
         text: Home
       - about.qmd
     right:
+      - href: cv.qmd
+        text: CV
+        icon: bi-file-earmark-pdf
       - href: https://pws3141.github.io/blog/
         text: Blog
         icon: newspaper
