@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Paul Smith",
     "section": "",
-    "text": "This is a holding page, at the moment.\nHave a look at my blog, if you want."
+    "text": "Currently there are two things here:\n\nMy blog, where I discuss some things that interest me.\nMy CV, for if you want to hire me :)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "University of Leeds | PhD in Statistics | September 2016 - August 2020\nUniversity of Bristol | MMath | September 2011 - June 2015\nUniversity of Hull | PGCE | September 2020 - June 2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Leeds | PhD in Statistics | September 2016 - August 2020\nUniversity of Bristol | MMath | September 2011 - June 2015\nUniversity of Hull | PGCE | September 2020 - June 2021"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nNHS Blood and Transplant, Bristol | Statistician | November 2023 - present\nEquality and Human Rights Commission, Cardiff | Statistician | April 2023 - October 2023 (Maternity Cover)\nSecondary School, Bath | Maths Teacher | September 2020 - August 2022\nKPMG, London | Investment Advisor | September 2015 - August 2016"
   }
 ]
