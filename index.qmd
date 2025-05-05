@@ -5,4 +5,4 @@ title: "Paul Smith"
 Currently there are two things here:
 
 - [My blog](https://pws3141.github.io/blog/), where I discuss some things that interest me.
-- [My CV](cv.qmd), for if you want to hire me :)
+- [My CV](cv.qmd).

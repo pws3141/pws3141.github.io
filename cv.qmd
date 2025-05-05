@@ -1,13 +1,13 @@
 ---
 title: Curriculum vitæ
 description: "Paul Smith's CV"
-date: 2025-04-17
+date: 2025-05-05
 title-block-banner: "#f1f1f1"
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "2504-cv.pdf"
+  pdf: "2505-cv.pdf"
 ---
 
 ```{css, echo=FALSE}
